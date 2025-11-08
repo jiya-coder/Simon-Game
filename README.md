@@ -1,7 +1,7 @@
 # Simon-Game
 A modern, interactive implementation of the classic Simon memory game built with HTML, CSS, and JavaScript. Test your memory skills by repeating increasingly complex sequences of colors and sounds!
 
-✨ <b>Features</b>
+✨ <b>Features</b>                                                                                                                           
 🎯 Classic Gameplay: Faithful recreation of the original Simon electronic game                                                               
 🎨 Vibrant Visuals: Beautiful color transitions and smooth animations                                                                        
 🔊 Audio Feedback: Distinctive sounds for each color button                                                                                  
@@ -10,7 +10,7 @@ A modern, interactive implementation of the classic Simon memory game built with
 🎮 Multiple Input Methods: Mouse/touch controls with keyboard support                                                                        
 ⚡ Performance Optimized: Smooth animations and efficient memory usage   
 
-🎯 <b>How to Play</b>
+🎯 <b>How to Play</b>                                                                                                                        
 Game Start: Press any key to begin the game                                                                                                  
 Watch the Sequence: Simon will flash a sequence of colors                                                                                    
 Repeat the Sequence: Click the colors in the same order                                                                                      
